@@ -57,3 +57,4 @@ docker run --rm --gpus=all -it hashcat bash
 root@docker:~/hashcat# ./hashcat.bin --help
 ```
 
+
